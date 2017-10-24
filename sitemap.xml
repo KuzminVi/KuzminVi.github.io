@@ -4,70 +4,70 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://localhost:8000/</loc>
-<lastmod>2017-10-25T00:27:42-00:00</lastmod>
+<loc>https://kuzminvi.github.io/</loc>
+<lastmod>2017-10-25T00:46:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/archives.html</loc>
-<lastmod>2017-10-25T00:27:42-00:00</lastmod>
+<loc>https://kuzminvi.github.io/archives.html</loc>
+<lastmod>2017-10-25T00:46:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tags.html</loc>
-<lastmod>2017-10-25T00:27:42-00:00</lastmod>
+<loc>https://kuzminvi.github.io/tags.html</loc>
+<lastmod>2017-10-25T00:46:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/categories.html</loc>
-<lastmod>2017-10-25T00:27:42-00:00</lastmod>
+<loc>https://kuzminvi.github.io/categories.html</loc>
+<lastmod>2017-10-25T00:46:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/pages/o-chiom-dannyi-blog.html</loc>
+<loc>https://kuzminvi.github.io/pages/o-chiom-dannyi-blog.html</loc>
 <lastmod>2017-10-23T21:22:38+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/pages/kontakty.html</loc>
+<loc>https://kuzminvi.github.io/pages/kontakty.html</loc>
 <lastmod>2017-10-23T21:24:06+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/my-super-title.html</loc>
+<loc>https://kuzminvi.github.io/my-super-title.html</loc>
 <lastmod>2017-10-24T00:45:10+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/category/misc.html</loc>
+<loc>https://kuzminvi.github.io/category/misc.html</loc>
 <lastmod>2017-10-24T00:45:10+02:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tag/misc.html</loc>
+<loc>https://kuzminvi.github.io/tag/misc.html</loc>
 <lastmod>2017-10-24T00:45:10+02:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/author/kuzmin-vitaly.html</loc>
+<loc>https://kuzminvi.github.io/author/kuzmin-vitaly.html</loc>
 <lastmod>2017-10-24T00:45:10+02:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
